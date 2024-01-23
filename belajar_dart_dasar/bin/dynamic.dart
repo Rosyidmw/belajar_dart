@@ -7,4 +7,7 @@ void main() {
 
   variable = 'Rosyid';
   print(variable);
+
+  variable = 15 + 10;
+  print(variable);
 }
