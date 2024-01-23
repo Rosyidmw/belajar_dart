@@ -21,9 +21,9 @@ void main() {
 
   // Multiline String
   var longString = '''
-  Ini long string
-  ini baris ke-2
-  ini baris ke-3 di dalam dart
+Ini long string
+ini baris ke-2
+ini baris ke-3 di dalam dart
   ''';
   print(longString);
 }
