@@ -19,7 +19,7 @@ void main() {
   print(nama1);
   print(nama2);
 
-  // Multiline String
+  // Multiline String, Kalau Dikotlin Harus Pakai trim
   var longString = '''
 Ini long string
 ini baris ke-2
